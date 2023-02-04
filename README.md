@@ -1,9 +1,13 @@
 # AICC202-Intro-to-Data-Science
 
 Subject: Introduction to Data Science 
+
 Course Code: AICC 202
+
 Level: BTech in AI 2nd year 1st semester 
+
 Credit Hours: 3
+
 Type: Core [Theory + Practical]
 
 ## Course Description:
